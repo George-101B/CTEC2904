@@ -1,4 +1,4 @@
-main(){
-printf("Hello world!"):
+main (){
+quicker verison
 return 0;
 }
